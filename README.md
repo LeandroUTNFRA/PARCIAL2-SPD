@@ -1,7 +1,7 @@
 # ALUMNO
 Leandro Escobar 1J
 
-# PARCIAL2-SPD![MuaKissGIF](https://github.com/LeandroUTNFRA/PARCIAL2-SPD/assets/122940722/66fcef9f-f795-4ec2-99e0-afb9aa70c613)
+# PARCIAL2-SPD
 
 sistema incendio
 
@@ -235,3 +235,9 @@ void MostrarMensaje(const char* mensaje,int temperatura){
 ~~~
 # LINK DE PROYECTO
 https://www.tinkercad.com/things/9ywV6ID3Bsl-2parcial-spd-leandro-escobar/editel?sharecode=3Z4q6UUuJvBG7wV9H22DIgbEl7jiVfg-DuYBENhcsC0
+
+# Fin del Proyecto
+gracias por ver 
+
+
+- ![MuaKissGIF](https://github.com/LeandroUTNFRA/PARCIAL2-SPD/assets/122940722/66fcef9f-f795-4ec2-99e0-afb9aa70c613)
